@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good! thanks for asking!"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "hello there!",
+      "answer": "Hey again!"
+    },
+    {
+      "question": "Assalamu alaikum",
+      "answer": "Wa alaikum as salaam"
+    },
+    {
+      "question": "Chicken",
+      "answer": "Chciken is a delicious food"
+    },
+    {
+      "question": "Elipses",
+      "answer": "..."
+    },
+    {
+      "question": "Knock knock!",
+      "answer": "Who's there?"
+    },
+    {
+      "question": "Lettuce",
+      "answer": "Lettuce who?"
+    },
+    {
+      "question": "Lettuce in its freezing out here!",
+      "answer": "Haha"
+    },
+    {
+      "question": "Why did the chicken cross the road?",
+      "answer": "I'm not sure, please inform me of why such a quandry occured!"
+    },
+    {
+      "question": "To get to the other side!!!",
+      "answer": "Wow! That was truly a spectacular show of humorous ingenuity!"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Why it's Paris, ofcourse!"
+    },
+    {
+      "question": "You're welcome",
+      "answer": "I could not have done it without you."
+    },
+    {
+      "question": "No problem",
+      "answer": "Please accept my deepest gratitude."
+    }
+  ]
+}
